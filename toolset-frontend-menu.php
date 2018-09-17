@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name: Toolset Frontend Menu
+Plugin Name:  ToolWine FrontEnd Menu
 */
 
 include( plugin_dir_path( __FILE__ ) . 'frontend-menu.php');
