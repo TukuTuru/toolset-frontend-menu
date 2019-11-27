@@ -1,4 +1,5 @@
 <?php
+if (!defined('ABSPATH')) exit;
 /**
   *Filter callbacks for Toolset menu
   */
